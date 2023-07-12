@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DEFI_ECO_React/static/css/main.b61d0ef8.css",
+    "main.js": "/DEFI_ECO_React/static/js/main.a334d1f5.js",
+    "static/media/video.mp4": "/DEFI_ECO_React/static/media/video.a2703484bb9eee7d0c2e.mp4",
+    "static/media/terminal.png": "/DEFI_ECO_React/static/media/terminal.008c23b28e62ddbd576c.png",
+    "index.html": "/DEFI_ECO_React/index.html",
+    "main.b61d0ef8.css.map": "/DEFI_ECO_React/static/css/main.b61d0ef8.css.map",
+    "main.a334d1f5.js.map": "/DEFI_ECO_React/static/js/main.a334d1f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b61d0ef8.css",
+    "static/js/main.a334d1f5.js"
+  ]
+}
