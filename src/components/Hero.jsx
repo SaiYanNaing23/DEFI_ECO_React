@@ -9,8 +9,8 @@ const Hero = () => {
             <h1 className='mb-4'><span className='text-[var(--primary-blue)]'>Trading </span>Protocol</h1>
             <p className='mb-4 text-xl'>Guaranteed liquidty trading for millions users and top Ethereum applications</p>
             <div className='mt-10'>
-                <button className='mr-10 px-7 py-3'>Use Defi</button>
-                <button className='px-10 py-3 bg-none border-2 border-[var(--primary-blue)]  text-[var(--primary-blue)]'>FAQ</button> 
+                <button className='mr-10 px-7 py-3 hover:shadow-md hover:shadow-cyan-500'>Use Defi</button>
+                <button className='px-10 py-3 bg-none border-2 border-[var(--primary-blue)]  text-[var(--primary-blue)] hover:bg-[var(--primary-blue)] hover:text-white'>FAQ</button> 
             </div>
         </div>
         <div>

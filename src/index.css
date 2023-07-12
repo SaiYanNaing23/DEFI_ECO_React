@@ -10,7 +10,7 @@
 }
 @layer base{
     *{
-        @apply font-["Roboto"]
+        @apply font-["Roboto"] scroll-smooth
     }
     h1{
         @apply  font-bold uppercase text-3xl

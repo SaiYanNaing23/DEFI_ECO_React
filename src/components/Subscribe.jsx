@@ -11,7 +11,7 @@ const Subscribe = () => {
         <h1>Join Our <span className='text-blue-400'>Defi</span>  Community</h1>
         <div className='mt-4'>
             <input type="email" className='rounded-full mr-6 py-2 px-10 focus:outline-none text-gray-800' placeholder='Your Email'/>
-            <button>Sign Up</button>
+            <button className='hover:shadow-md hover:shadow-cyan-500'>Sign Up</button>
         </div>
         <div className='mt-2'>
             <input type="checkbox" className='mr-3'/>

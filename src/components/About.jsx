@@ -30,7 +30,7 @@ const About = () => {
                 {/* Card */}
                 <AboutCard icons={<VscServerProcess size={30} />} title='Secure off-chain computation' message = 'Use a decentralized network of DeFi Keeper nodes to automate contracts, mitigating risk of manual interventions and centralized servers.'/>
             </div>
-            <button className='mt-16 uppercase'>Use Defi</button>
+            <button className='mt-16 uppercase hover:shadow-md hover:shadow-cyan-500'>Use Defi</button>
             </div>
         </div>
     </div>

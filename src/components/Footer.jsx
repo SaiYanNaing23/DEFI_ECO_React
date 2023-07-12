@@ -41,6 +41,7 @@ const Footer = () => {
                 </ul>
             </div>
         </div>
+        <p className='pt-12 text-sm'>Copyright &copy; <span className='text-blue-400'>Sai Yan Naing</span>. All rights reserved.</p>
     </div>
   )
 }
